@@ -1,9 +1,9 @@
 # Parallax-project1
-- [Demo Project](https://parallax-project-lsom.vercel.app/) 👩‍💻
+- [Demo Project](https://parallax-project1-virid.vercel.app/) 👩‍💻
 
   
 
-![parallax1](https://github.com/user-attachments/assets/6c876b7b-fa22-47cd-9ef9-8be6e8996e77)
+
 
 
 
