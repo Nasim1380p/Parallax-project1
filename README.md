@@ -8,7 +8,7 @@
 
 
 
-![para1](https://github.com/user-attachments/assets/bc77907b-3d4e-4262-9854-956fd95bb1fc)
+
 
 
 - 👩‍🎓 Developed by nasim pirghollo
