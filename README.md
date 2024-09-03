@@ -4,11 +4,11 @@
   
 
 
+![para2](https://github.com/user-attachments/assets/ca4fb56b-31b2-4a25-a7ba-ca8ae9086fce)
 
 
 
-![parallax2](https://github.com/user-attachments/assets/2082f913-0078-461e-a072-0343ea7a4522)
-
+![para1](https://github.com/user-attachments/assets/bc77907b-3d4e-4262-9854-956fd95bb1fc)
 
 
 - 👩‍🎓 Developed by nasim pirghollo
