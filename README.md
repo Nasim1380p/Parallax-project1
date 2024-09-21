@@ -16,7 +16,7 @@
 
 - Created - 2024-08-01
 
-- Technologies Used - Html5, Ract ,tailwind 
+- Technologies Used - Html5, Ract ,tailwind , Framer Motion
 
 - Hooks Used : useState 
 
